@@ -60,3 +60,6 @@ A content script that automates interactions on X.com by adding a "Follow All" b
 });
 
 # Enjoy the automation and streamline your X.com experience!
+
+
+https://drive.google.com/file/d/1N-SC-wVYupZIYoj5OVAFmYqZhaKhWlRt/view?usp=drivesdk
